@@ -20,12 +20,12 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1UGgAGV3uKOXojuFzoQuHBpy3VYf6w8Gc=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Rabgay Norbu Tshering
 
 **Title / Role** — student
 
@@ -44,8 +44,7 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2025 – Present | Grade 8 | The Royal Academy |
 
 ## 🛠️ Skills
 
