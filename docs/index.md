@@ -11,7 +11,7 @@ hide:
 
 # Rabgay Bhai
 
-_A place to document my journey, learning, and projects._
+A place to document my journey, learning, and projects.
 
 </div>
 
