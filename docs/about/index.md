@@ -20,7 +20,8 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1UGgAGV3uKOXojuFzoQuHBpy3VYf6w8Gc=w400" alt="Profile Photo">
+![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/direct_battery.png?ref_type=heads)
+<p class="drive-image-caption">Figure 1</p>
 
 
 <div class="profile-info" markdown>
