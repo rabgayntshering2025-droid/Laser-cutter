@@ -155,7 +155,7 @@ nav:
       - Softwares : documentation/installation.md 
       - Blinking LED : documentation/led_blink.md
       - "📝 Blank Template": documentation/template.md
-      - "3D Designing": documentation/3d_design.md
+      - "Mentor Mentee": documentation/3d_design.md
 
   - Projects:
       - Overview: projects/index.md
