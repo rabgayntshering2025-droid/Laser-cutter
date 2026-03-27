@@ -6,7 +6,7 @@ hide:
 
 <!-- Hero Section -->
 <!-- 👇 Replace YOUR_FILE_ID with your Google Drive image file ID -->
-<div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=1XpVghCFdPBU_flmhSBTXg3IRLTQ4sQqi&sz=w1600') center/cover no-repeat;" markdown>
+<div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=1UGgAGV3uKOXojuFzoQuHBpy3VYf6w8Gc&sz=w1600') center/cover no-repeat;" markdown>
 
 
 # My Portrait 

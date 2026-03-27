@@ -30,10 +30,9 @@ title: About Me
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+"Hi everyone—I’m Rabgay Norbu Tshering,I am currently studying in the 8th grade. I love playing sports and trying new things.
 
 </div>
 
