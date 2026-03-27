@@ -2,7 +2,7 @@
 title: Mooncamp Challenge
 ---
 
-# About Mooncamp Challenge
+# About Mooncamp 
 
 <!-- ============================================================
      INSTRUCTIONS: Replace placeholder text below with your info.
@@ -20,18 +20,17 @@ title: Mooncamp Challenge
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1kXZ7u-Pat_8vF4SU_0bsIaduNZQ7BUGF&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
 
-## Rabgay Norbu Tshering
+## Moon Camp
 
-**Title / Role** — student
+*What is  Mooncamp* 
 
-> _"Somewhere, something incredible is waiting to be known. – Carl Sagan."_
+In the future, to enable astronauts to stay on the Moon or other planets for long periods of time, new infrastructures must be developed to overcome important challenges. Such challenges include protection from radiation and meteorites, energy production, the extraction and recycling of water, food production and much more.
 
-"Hi everyone—I’m Rabgay Norbu Tshering,I am currently studying in the 8th grade. I love playing sports and trying new things.
 
 </div>
 
@@ -39,11 +38,8 @@ title: Mooncamp Challenge
 
 <hr class="section-divider">
 
-## 🎓 Education
 
-| Year | Degree / Grade | School |
-|------|-----------------|-------------|
-| 2025 – Present | Grade 8 | The Royal Academy |
+
 
 
 
