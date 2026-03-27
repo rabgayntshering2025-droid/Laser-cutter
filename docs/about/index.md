@@ -20,8 +20,7 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/direct_battery.png?ref_type=heads)
-<p class="drive-image-caption">Figure 1</p>
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1kXZ7u-Pat_8vF4SU_0bsIaduNZQ7BUGF&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
@@ -46,42 +45,7 @@ title: About Me
 |------|-----------------|-------------|
 | 2025 – Present | Grade 8 | The Royal Academy |
 
-## 🛠️ Skills
 
-<div markdown>
 
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
 
-</div>
 
-!!! tip "Customize Your Skills"
-
-    Replace the badges above with your own skills.  
-    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
-
-<hr class="section-divider">
-
-## 🌟 Interests
-
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
-
-<hr class="section-divider">
-
-## 📬 Contact
-
-| Platform | Link |
-|----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
