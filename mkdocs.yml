@@ -152,7 +152,7 @@ nav:
      
       - Basic Simulation TinkerCad : documentation/basic_simulation.md
     
-      - "Mentor Mentee": documentation/3d_design.md
+      - "Mentor Mentee": documentation/mentor.md
 
   - Projects:
       - Overview: projects/index.md
