@@ -21,8 +21,6 @@ materials organized by topic.
 <div class="card-grid" markdown>
 
 
-</div>
-
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1_pUj3Bicn9kwNDZANdwKGOzc6j1yEcNX&sz=w500');" markdown>
 
 ### Basic Simulation
@@ -33,7 +31,7 @@ My Tinkercad simulation.
 
 </div>
 
-<div class="doc-card" style="background-image: url('https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/led_resistor_simulation.png?ref_type=heads');" markdown>
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1UGgAGV3uKOXojuFzoQuHBpy3VYf6w8Gc&sz=w1600');" markdown>
 
 ### Mentor Mentee
 
@@ -42,7 +40,7 @@ This is my mentor mentee group
 [:octicons-arrow-right-24: Read Guide](mentor.md)
 
 </div>
+</div>
 
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1UGgAGV3uKOXojuFzoQuHBpy3VYf6w8Gc&sz=w1600');" markdown>
 
 ### More to come!
