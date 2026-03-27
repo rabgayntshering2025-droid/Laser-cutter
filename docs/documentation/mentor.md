@@ -14,9 +14,6 @@ He hold a Bachelor’s in Electronics & Communication Engineering (College of Sc
 
 ![](https://drive.google.com/thumbnail?id=1UGgAGV3uKOXojuFzoQuHBpy3VYf6w8Gc&sz=w400)
 
-##  *CO-MENTEE*
-
-
 
 ## *Nature Retreat*
  
@@ -28,7 +25,14 @@ He hold a Bachelor’s in Electronics & Communication Engineering (College of Sc
     height = "480">
 </iframe>
 
-### Tang
+### Tango Cheri
+
+<iframe
+    src = "https://drive.google.com/file/d/1AgNt-dJQBV7YUgMivHAcx4BA_0TZY4d1/preview"
+    width = "100%"
+    height = "480">
+</iframe>
+
 
 
 
