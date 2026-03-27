@@ -1,8 +1,8 @@
 ---
-title: About Me
+title: Mooncamp Challenge
 ---
 
-# About Me
+# About Mooncamp Challenge
 
 <!-- ============================================================
      INSTRUCTIONS: Replace placeholder text below with your info.
