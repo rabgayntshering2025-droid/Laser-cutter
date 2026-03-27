@@ -148,13 +148,10 @@ nav:
 
   - Documentation:
       - Overview: documentation/index.md
-      - "🚀 Deploy to GitHub Pages": documentation/github-deployment.md
-      - "Expectation and Roles" : documentation/expectation.md
-      - Getting Started Guide: documentation/getting-started.md
+
+     
       - Basic Simulation TinkerCad : documentation/basic_simulation.md
-      - Softwares : documentation/installation.md 
-      - Blinking LED : documentation/led_blink.md
-      - "📝 Blank Template": documentation/template.md
+    
       - "Mentor Mentee": documentation/3d_design.md
 
   - Projects:
