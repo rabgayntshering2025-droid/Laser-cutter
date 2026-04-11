@@ -29,7 +29,7 @@ title: Mooncamp Challenge
 
 *What is  Mooncamp* 
 
-In the future, to enable astronauts to stay on the Moon or other planets for long periods of time, new infrastructures must be developed to overcome important challenges. Such challenges include protection from radiation and meteorites, energy production, the extraction and recycling of water, food production and much more.
+In the future, to enable astronauts to stay on the Moon or other planets for long periods of time, new infrastructures must be developed to overcome important challenges. Such challenges include protection from radiation and meteorites, energy production, the extraction and recycling of water, food production and much more.So to overcome those challenges The European Space Education Resource Offices (ESERO) has created the moon camp challenge to 
 
 
 </div>
