@@ -22,7 +22,7 @@ A Tool to Cut
 
 <div class="card" markdown>
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Laser Cutter
 
 Learn more about who I am, my background, education, and skills.
 
