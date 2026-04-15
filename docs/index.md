@@ -24,7 +24,7 @@ A Tool to Cut
 
 ### 🧑‍💻 About Laser Cutter
 
-Learn more about who I am, my background, education, and skills.
+Learn more about how it works and what it is usefull for.
 
 [:octicons-arrow-right-24: Go to About Me](about/index.md)
 
