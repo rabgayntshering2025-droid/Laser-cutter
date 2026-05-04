@@ -25,31 +25,63 @@ Engrave  the surface
 ### -Acrylic (plastic)
 ### -Paper & cardboard
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotcs_images/Resistor.png?ref_type=heads)
-<p class="drive-image-caption">Figure 2</p>
+## *Example uses*
 
-
-Resistor offers resistance to the flow of current through the resistor.
-- Resistance: Resistance is a measure of the opposition to current flow in an electrical circuit.
-  - Resistance is measured in ohms, symbolized by the Greek letter omega (Ω).
-
-The image below can help visulize the relation between resistance, current and voltage.
-
-Therefore, the flow of current can be easily connected with the flow of water. Where the pressure of the waterflow can be linked with the voltage in the circuit, Resistance with the small size of cross section to limit the flow of water, which can be linked with the flow of current in a circuit.
+### Making signs and nameplates
+### Custom gifts (engraved wood, glass)
+### School projects
+### Small business products (keychains, decorations)
 
 ![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/resistance.png?ref_type=heads)
 <p class="drive-image-caption">Figure 3</p>
 
+## Vector (Cutting)
 
-Before using the resistor, we also have to understand the measuring value of a resistor.
-- Every Resistor has a color code that defines the level of resistance it can provide to the flow of current. To check a video [click here](https://www.youtube.com/watch?v=pD2Ce1lujNA).
+### Vector = cutting lines
+
+The laser follows thin lines in your design
+It cuts all the way through the material
+Like using a blade or scissors, but with a laser
+
+## 👉 Example:
+
+### -Cutting out a circle from wood
+### -Making shapes like keychains or letters
+
 
 ![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/ResistorColorChart.png?ref_type=heads)
 <p class="drive-image-caption">Figure 4</p>
 
+## Engraving 
 
-- Then to confirm what color code of resistor to be assign, We have to follow Ohm's Law.
+### Engrave = surface marking
 
+### -The laser moves back and forth (like a printer)
+### -It does NOT cut through, only burns the surface
+### -Creates designs, text, or images
+
+## 👉 Example:
+
+### -Writing a name on wood
+### -Adding a photo or logo
+
+
+
+# Quick difference
+
+## 	What it does
+
+### Vector
+
+#### -Cuts lines
+#### -Goes through
+#### -Shapes, outlines
+
+### Engrave	
+#### -Burns surface
+#### -Images, text, logos
+
+	
 #### **Ohm's Law**
 
 > Ohm’s law states that the voltage across a conductor is directly proportional to the current flowing through it, provided all physical conditions and temperature remain constant.
@@ -82,7 +114,8 @@ $$
 <p class="drive-image-caption">Figure 1: Aesthetic Centre</p>
 
 
-### Adding a Switch in the circuit.
+
+
 
 - A switch can be used to turn on or turn off a circuit. It can used to make a circuit open (off) or closed (on).
 - In this circuit we will be using a slide switch. A slide switch has two terminal and a common terminal. The common terminal will be connected to the LED through a resistor. The other two terminal can be used to complete or break the circuit.
