@@ -154,6 +154,6 @@ nav:
     
       - "Mentor Mentee": documentation/mentor.md
 
-  - Projects:
+  - Laser cutter:
       - Overview: projects/index.md
       - "📋 Project Template": projects/project-template.md
