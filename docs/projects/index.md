@@ -9,8 +9,7 @@
 
 A laser cutting machine is a tool that uses a very focused beam of light (a laser) to cut or engrave materials like wood and acrylic.
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/direct_battery.png?ref_type=heads)
-<p class="drive-image-caption">Figure 1</p>
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
 
 ### How it works 
 
@@ -32,8 +31,7 @@ Engrave  the surface
 ### School projects
 ### Small business products (keychains, decorations)
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/resistance.png?ref_type=heads)
-<p class="drive-image-caption">Figure 3</p>
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
 
 ## Vector (Cutting)
 
@@ -49,8 +47,7 @@ Like using a blade or scissors, but with a laser
 ### -Making shapes like keychains or letters
 
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/ResistorColorChart.png?ref_type=heads)
-<p class="drive-image-caption">Figure 4</p>
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
 
 ## Engraving 
 
@@ -82,8 +79,7 @@ Like using a blade or scissors, but with a laser
 #### -Images, text, logos
 
 	
-
-
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
 
 - Basically for the LED to glow the circuit should be completed (i.e the two end ot the LED terminal should be connected to the positive and negative terminal of the power)
   - When the switch is off, the LED is disconnected from power i.e both side is connected to the negative terminal of the battery.
