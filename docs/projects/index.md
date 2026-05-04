@@ -1,28 +1,31 @@
 # projects 
 
-# Laser cutter
+## Laser cutter
 
-## A machine to cut your design
-
-
-### *Creating a basic circuit.*(sir Anith Taught me)
+### A machine to cut your design.
 
 
-•	Lighting an LED.
-To lit a bulb or a LED, one important required thing is Power. Tinkercad provides six types of power supply.
-•	Lighting LED with power supply.
+
+
+A laser cutting machine is a tool that uses a very focused beam of light (a laser) to cut or engrave materials like wood and acrylic.
 
 ![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/direct_battery.png?ref_type=heads)
 <p class="drive-image-caption">Figure 1</p>
 
+### How it works 
 
-But before that Students should learn about two types of electrical circuit. [ Click Here ](https://www.youtube.com/watch?v=8Z0jhQeYDUE).
+You create a design on a computer (like a drawing or logo).
+Send that design to the laser machine.
+The machine follows the design and uses a laser beam to:
+Cut through material, or
+Engrave  the surface
 
-So in the above image, the LED id directly connected battery: if this circuit is created in TinkerCad. and if you start the simulation. The exclaimation mark represents that excessive amount of current is flowing through the LED.
+## What can it cut or engrave?
+### -Wood
+### -Acrylic (plastic)
+### -Paper & cardboard
 
-Therefore, to limit the flow of current we can make use of electrical passive device called Resistor.
-
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/Resistor.png?ref_type=heads)
+![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotcs_images/Resistor.png?ref_type=heads)
 <p class="drive-image-caption">Figure 2</p>
 
 
