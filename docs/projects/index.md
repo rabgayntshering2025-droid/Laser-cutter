@@ -9,7 +9,8 @@
 
 A laser cutting machine is a tool that uses a very focused beam of light (a laser) to cut or engrave materials like wood and acrylic.
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
+![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/direct_battery.png?ref_type=heads)
+<p class="drive-image-caption">Figure 1</p>
 
 ### How it works 
 
@@ -31,7 +32,8 @@ Engrave  the surface
 ### School projects
 ### Small business products (keychains, decorations)
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
+![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/resistance.png?ref_type=heads)
+<p class="drive-image-caption">Figure 3</p>
 
 ## Vector (Cutting)
 
@@ -47,7 +49,8 @@ Like using a blade or scissors, but with a laser
 ### -Making shapes like keychains or letters
 
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
+![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/ResistorColorChart.png?ref_type=heads)
+<p class="drive-image-caption">Figure 4</p>
 
 ## Engraving 
 
@@ -64,22 +67,57 @@ Like using a blade or scissors, but with a laser
 
 
 
-# Quick difference>
+# Quick difference
 
-## 	What it does.
-
+## 	What it does
 ### Vector
-
 #### -Cuts lines
 #### -Goes through
 #### -Shapes, outlines
 
-### Engrave	
-#### -Burns surface
-#### -Images, text, logos
-
 	
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1vTsu-DluIAqYmpiNH3S7Qzt4XLyVB8MT&sz=w400" alt="Profile Photo">
+#### **Ohm's Law**
+
+> Ohm’s law states that the voltage across a conductor is directly proportional to the current flowing through it, provided all physical conditions and temperature remain constant.
+- V = IR
+  - I = Current
+  - V = Voltage
+  - R = Resistance
+
+So For LED's, 20mA is best amount of current across the LED.
+- Therefore to find the value of resistance required is:
+  - let Current (I) = 20mA
+  - Voltage (V) = 3V
+
+Using
+  > V = IR
+
+Which can be also written as
+
+  > R = V/I
+
+Therefore;
+$$
+ R = \frac{3V}{20x10^{-3} A}
+$$
+  - R = 150 Ω.
+
+**Adding R = 150 Ω in series and performint simulation**
+
+![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/led_resistor_simulation.png?ref_type=heads)
+<p class="drive-image-caption">Figure 1: Aesthetic Centre</p>
+
+
+
+
+
+- A switch can be used to turn on or turn off a circuit. It can used to make a circuit open (off) or closed (on).
+- In this circuit we will be using a slide switch. A slide switch has two terminal and a common terminal. The common terminal will be connected to the LED through a resistor. The other two terminal can be used to complete or break the circuit.
+
+The image below shows the use of switch to control the glow of the LED.
+
+![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/led_switch_simulation.png?ref_type=heads)
+<p class="drive-image-caption">Figure 1: Aesthetic Centre</p>
 
 - Basically for the LED to glow the circuit should be completed (i.e the two end ot the LED terminal should be connected to the positive and negative terminal of the power)
   - When the switch is off, the LED is disconnected from power i.e both side is connected to the negative terminal of the battery.
