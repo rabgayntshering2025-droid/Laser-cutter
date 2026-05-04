@@ -21,9 +21,7 @@ hide:
 
 <div class="card" markdown>
 
-### 🧑‍💻 About Laser Cutter
-
-Learn more about how it works and what it is usefull for.
+### 🧑‍💻 About me
 
 [:octicons-arrow-right-24: Go to About Me](about/index.md)
 
