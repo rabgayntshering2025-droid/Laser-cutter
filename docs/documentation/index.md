@@ -4,8 +4,7 @@ title: Documentation
 
 # Rabgay Norbu Tshering
 
-Welcome to the documentation section! Here you'll find notes, guides, and reference
-materials organized by topic.
+Welcome to the my documentation. here you know about me and what i have learned.
 
 <hr class="section-divider">
 
