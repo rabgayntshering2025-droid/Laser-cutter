@@ -38,8 +38,9 @@ Engrave  the surface
 ### School projects
 ### Small business products (keychains, decorations)
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/resistance.png?ref_type=heads)
-<p class="drive-image-caption">Figure 3</p>
+![](https://drive.google.com/thumbnail?id=![](https://drive.google.com/thumbnail?id=1ZVNhubtIzT-7G4FMX-vteaLEvkromSX7&sz=w400)&sz=w400)
+
+
 
 ## Vector (Cutting)
 
@@ -52,11 +53,15 @@ Like using a blade or scissors, but with a laser
 ## 👉 Example:
 
 ### -Cutting out a circle from wood
+
+![](https://drive.google.com/thumbnail?id=![](https://drive.google.com/thumbnail?id=1aWs1g2I45r3xYymLqLBD35r645EAxlDn&sz=w400)
+
+
+
 ### -Making shapes like keychains or letters
 
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/ResistorColorChart.png?ref_type=heads)
-<p class="drive-image-caption">Figure 4</p>
+
 
 ## Engraving 
 
@@ -68,8 +73,13 @@ Like using a blade or scissors, but with a laser
 
 ## 👉 Example:
 
-### -Writing a name on wood
 ### -Adding a photo or logo
+
+![](https://drive.google.com/thumbnail?id=![](https://drive.google.com/thumbnail?id=19N9arkwnNMYhyS8urqVuGbaQ-5llcUdj&sz=w400)
+
+
+### -Writing a name on wood
+
 
 
 
