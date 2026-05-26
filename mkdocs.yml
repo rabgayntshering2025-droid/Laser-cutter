@@ -152,6 +152,8 @@ nav:
      
       - Basic Simulation TinkerCad : documentation/basic_simulation.md
     
+      - lasercutter.md : documentation/lasercutter.md
+
       - "Mentor Mentee": documentation/mentor.md
 
   - Laser cutter:
