@@ -22,7 +22,7 @@ Engrave  the surface
 ## What can it cut or engrave?
 ### -Wood
 
-![](https://drive.google.com/thumbnail?id=1ZVNhubtIzT-7G4FMX-vteaLEvkromSX7&sz=w400)
+![](https://drive.google.com/thumbnail?id=1-U5pymZVU_gOZNpDSkWAwdUvu9MB5BRy&sz=w400)
 
 ### -Acrylic (plastic)
 
