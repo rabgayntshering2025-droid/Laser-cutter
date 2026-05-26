@@ -9,8 +9,7 @@
 
 A laser cutting machine is a tool that uses a very focused beam of light (a laser) to cut or engrave materials like wood and acrylic.
 
-![Description](https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/direct_battery.png?ref_type=heads)
-<p class="drive-image-caption">Figure 1</p>
+![](https://drive.google.com/thumbnail?id=18vGRchqISgaXJJDOqB20n0IhvPX51-lc&sz=w400)
 
 ### How it works 
 
