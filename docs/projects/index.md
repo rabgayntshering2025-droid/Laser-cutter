@@ -99,5 +99,15 @@ Like using a blade or scissors, but with a laser
 
 ![](https://drive.google.com/thumbnail?id=![](https://drive.google.com/thumbnail?id=1X1vq6i95xfqh1MUGvqzQCPj_mzn1rMUp&sz=w400)
 
+## You can use inkscape to make your design.
+
+
+![](https://drive.google.com/thumbnail?id=![](https://drive.google.com/thumbnail?id=1p4kNylwlRpAIy6YjvsVZoBPRm1a9YUTp&sz=w400)
+
+
+Inkscape is a free, powerful program used for creating and editing digital drawings, logos, and graphics. Unlike regular photo editors that work with pixels, Inkscape uses "vector graphics," which means you can shrink your artwork to the size of a postage stamp or blow it up to the size of a billboard without it ever getting blurry or losing quality. It is packed with easy-to-use tools for drawing shapes, typing text, and mixing colors, making it a favorite tool for both beginners and professional designers who want to create clean, sharp artwork without paying for expensive software.
+
+
+
 
 
