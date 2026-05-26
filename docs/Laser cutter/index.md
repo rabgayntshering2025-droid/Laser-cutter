@@ -107,6 +107,7 @@ Like using a blade or scissors, but with a laser
 
 Inkscape is a free, powerful program used for creating and editing digital drawings, logos, and graphics. Unlike regular photo editors that work with pixels, Inkscape uses "vector graphics," which means you can shrink your artwork to the size of a postage stamp or blow it up to the size of a billboard without it ever getting blurry or losing quality. It is packed with easy-to-use tools for drawing shapes, typing text, and mixing colors, making it a favorite tool for both beginners and professional designers who want to create clean, sharp artwork without paying for expensive software.
 
+![](https://drive.google.com/thumbnail?id=![](https://drive.google.com/thumbnail?id=1DNdzu2llDmgmdCzU7IjRz8kBrorZ60L7&sz=w400)
 
 
 
