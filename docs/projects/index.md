@@ -81,3 +81,8 @@ Like using a blade or scissors, but with a laser
 #### -Goes through
 #### -Shapes, outlines
 
+### Engrave 
+#### Creates designs, text, or images
+#### does NOT cut through, only burns the surface
+
+
