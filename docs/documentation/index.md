@@ -46,6 +46,6 @@ This is my mentor mentee group
 
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1_pUj3Bicn9kwNDZANdwKGOzc6j1yEcNX&sz=w500');" markdown>
 
-### Basic Simulation
+### Laser cutter
 
 ### More to come!
