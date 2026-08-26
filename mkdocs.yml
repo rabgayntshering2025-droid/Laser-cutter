@@ -155,7 +155,3 @@ nav:
       - lasercutter.md : documentation/Laser Cutter.md
 
       - "Mentor Mentee": documentation/mentor.md
-
-  - Laser cutter:
-      - Overview: projects/index.md
-      - "📋 Project Template": documentation/Laser Cutter.md
