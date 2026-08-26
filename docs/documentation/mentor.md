@@ -43,7 +43,7 @@ Tango Cheri Nature retreat
 
 
 <iframe
-    src = "https://drive.google.com/file/d/1KS8Cy3p3YyTv0lsOPIwTiPYQ8chqctsN_0TZY4d1/preview"
+    src = "https://drive.google.com/file/d/1AgNt-1KS8Cy3p3YyTv0lsOPIwTiPYQ8chqctsN/preview"
     width = "100%"
     height = "480">
 </iframe>
