@@ -48,4 +48,15 @@ This is my mentor mentee group
 
 ### Laser cutter
 
+[:octicons-arrow-right-24: Read Guide](mentor.md)
+
+</div>
+</div>
+
+<div class="card-grid" markdown>
+
+
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1_pUj3Bicn9kwNDZANdwKGOzc6j1yEcNX&sz=w500');" markdown>
+
+
 ### More to come!
