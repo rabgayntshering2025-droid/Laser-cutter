@@ -58,6 +58,19 @@ This is my mentor mentee group
 
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1RcEqnTF0qNJVgOUxmGjegW9-TuUXfflV&sz=w500');" markdown>
 
+### RC Car
+
+[:octicons-arrow-right-24: Read Guide](rc_car.md)
+
+</div>
+</div>
+
+<div class="card-grid" markdown>
+
+
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1RcEqnTF0qNJVgOUxmGjegW9-TuUXfflV&sz=w500');" markdown>
+
+
 
 
 
