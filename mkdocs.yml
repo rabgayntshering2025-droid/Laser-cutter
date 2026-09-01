@@ -155,3 +155,5 @@ nav:
       - lasercutter : documentation/Laser_Cutter.md
 
       - "Mentor Mentee": documentation/mentor.md
+
+      - RC Car: documentation/rc_car.md
