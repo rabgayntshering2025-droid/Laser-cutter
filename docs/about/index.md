@@ -81,6 +81,6 @@ I am Rabgay Norbu Tshering currently studying in 8th grade at The Royal Academy
 | Platform | Link |
 |----------|------|
 | :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
+| :fontawesome-brands-linkedin: LinkedIn | [RabgayNorbuTshering](https://linkedin.com/in/yourusername) |
+| :material-email: Email | [rabgay.ntshering2025@academy.bt](mailto:your.email@example.com) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
