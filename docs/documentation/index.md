@@ -44,7 +44,7 @@ This is my mentor mentee group
 <div class="card-grid" markdown>
 
 
-<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1_pUj3Bicn9kwNDZANdwKGOzc6j1yEcNX&sz=w500');" markdown>
+<div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1DNdzu2llDmgmdCzU7IjRz8kBrorZ60L7&sz=w500');" markdown>
 
 ### laser cutter
 
